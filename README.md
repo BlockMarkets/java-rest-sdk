@@ -1,5 +1,5 @@
-# BlockMarkets API Java SDK
-This repository contains the released Java client SDK for the BlockMarkets API.
+# BlockMarkets REST API - Java SDK
+This repository contains the released Java client SDK for the BlockMarkets RESTful API.
 
 The BlockMarkets API provides real-time and historical cryptocurrency market data from the world's top crypto exchanges. Sign up for a free API key at [BlockMarkets Cryptocurrency API](https://www.blockmarkets.io/cryptocurrency-api).
 
